@@ -40,7 +40,7 @@ const __DATA__ = {
         'type': 0,
     }, {
         'image': 'gmail.jpg',
-        'title': '',
+        'title': 'Website',
         'show-value': 'HOTROMXHVN.SITE',
         'value': 'https://hotromxhvn.site/',
         'type': 0,
